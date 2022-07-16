@@ -5,6 +5,6 @@
     "bug_type": "insertion",
     "compile_cmd": "mvn clean compile",
     "test_cmd" : "mvn clean test",
-    "CVE": "CVE-2015-6748",
+    "CVE": "CVE-2018-18893",
     "github_url":"https://github.com/HubSpot/jinjava"
 }

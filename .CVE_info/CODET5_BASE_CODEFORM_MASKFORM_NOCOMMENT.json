@@ -1,0 +1,1 @@
+{"input": "  private static final Set<String> RESTRICTED_METHODS = ImmutableSet.<String> builder()\n      .add(\"clone\")\n      .add(\"hashCode\")\n      <extra_id_0>\n      .add(\"notifyAll\")\n      .add(\"wait\")\n      .build();\n", "function range": "20,2-23,6", "jasper": "fail"}
